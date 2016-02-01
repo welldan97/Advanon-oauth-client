@@ -1,6 +1,7 @@
 source 'https://rubygems.org'
 
 gem 'omniauth-oauth2'
+gem 'doorkeeper'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.2.3'
